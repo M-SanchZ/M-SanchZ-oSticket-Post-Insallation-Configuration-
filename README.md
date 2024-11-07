@@ -60,6 +60,9 @@ Followed by an Open ticket with the subject( osTicket Installed!):
 <p>Check all the boxes under the Permissions tab, in the Tickets/Tasks/Knowledgebase sub-tabs.</p>
 We can name this role "Supreme Admin"
 
+![image](https://github.com/user-attachments/assets/3d0dcca9-d007-48e9-81a2-865b5e780d2e)
+![image](https://github.com/user-attachments/assets/3614b95f-f867-4757-b2f0-01f910e2a4d8)
+![image](https://github.com/user-attachments/assets/f0aa3547-7283-48e1-8847-3454d5cc9346)
 ![image](https://github.com/user-attachments/assets/c31ea18f-7019-452c-bc4d-bdc1eb1d102f)
 ![image](https://github.com/user-attachments/assets/ae921faa-e918-49c8-a551-e3f690d392a6)
 
