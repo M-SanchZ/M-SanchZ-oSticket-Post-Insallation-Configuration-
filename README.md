@@ -46,19 +46,24 @@ Followed by an Open ticket with the subject( osTicket Installed!):
 
 ![image](https://github.com/user-attachments/assets/d92102cc-6eb1-4748-9647-52b3039df655)
 ![image](https://github.com/user-attachments/assets/0e762d13-48a4-46be-95ba-47e8d12b0d27)
+![image](https://github.com/user-attachments/assets/3d0dcca9-d007-48e9-81a2-865b5e780d2e)
+![image](https://github.com/user-attachments/assets/3614b95f-f867-4757-b2f0-01f910e2a4d8)
+![image](https://github.com/user-attachments/assets/f0aa3547-7283-48e1-8847-3454d5cc9346)
+
+
 
 
 
 <h3>Configure Roles</h3>
 <p>First, head to the Agents tab > Roles > Add New Role</p>
-<p>Here we will create a Super Admin who will have full access and permissions privileges</p>
+<p>Here we will create a Supreme Admin who will have full access and permissions privileges</p>
 <p>Check all the boxes under the Permissions tab, in the Tickets/Tasks/Knowledgebase sub-tabs.</p>
-We can name this role "Super Admin"
+We can name this role "Supreme Admin"
 
-![3](https://github.com/user-attachments/assets/f52db69e-85bf-44e3-9e56-be1faddba8ce)
-![4](https://github.com/user-attachments/assets/990f3960-700b-40f1-bff0-96ee9b1e08fe)
-![5](https://github.com/user-attachments/assets/53fe6610-4189-420f-a8ed-310ada021936)
-![6](https://github.com/user-attachments/assets/1987b72a-ddbc-4ad2-8c91-e9cfb1220e03)
+![image](https://github.com/user-attachments/assets/c31ea18f-7019-452c-bc4d-bdc1eb1d102f)
+![image](https://github.com/user-attachments/assets/ae921faa-e918-49c8-a551-e3f690d392a6)
+
+
 
 
 <br />
