@@ -71,10 +71,12 @@ We can name this role "Supreme Admin"
 
 <br />
 <h3>Configure Departments</h3>
-<p>Next, we can add some departments to our enterprise. Let's create a one called "SysAdmin"</p>
+<p>Next, we can add some departments to our enterprise. Let's create one called "SysAdmin"</p>
 <p>Navigate to the Agents tab > Departments > Add New Department</p>
+<p>Name: Top Level Deparment</p>
 
-![7](https://github.com/user-attachments/assets/5fe911ce-e7ed-43d4-bd52-8d0537d4b949)
+![image](https://github.com/user-attachments/assets/6958224a-99bc-48cd-924b-646079ef7ae5)
+
 
 <h3>Configure Teams</h3>
 <p>Here, we can create a team called "Online Banking"</p>
