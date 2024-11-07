@@ -44,7 +44,10 @@ Followed by an Open ticket with the subject( osTicket Installed!):
 
 <p>Log in to your admin account with the credentials you entered previously the first time you installed osTicket.</p>
 
-![2](https://github.com/user-attachments/assets/7260a21c-8523-4fab-835d-707e5e37515d)
+![image](https://github.com/user-attachments/assets/d92102cc-6eb1-4748-9647-52b3039df655)
+![image](https://github.com/user-attachments/assets/0e762d13-48a4-46be-95ba-47e8d12b0d27)
+
+
 
 <h3>Configure Roles</h3>
 <p>First, head to the Agents tab > Roles > Add New Role</p>
