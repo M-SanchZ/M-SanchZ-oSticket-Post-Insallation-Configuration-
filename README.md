@@ -110,12 +110,19 @@ We can name this role "Supreme Admin"
 ![image](https://github.com/user-attachments/assets/1d17df9e-bf3c-4a89-9bde-cb01056afb02)
 
 
-<p>Crearting an Agent: Jane Doe!</p>
+<p>Agent#1: Jane Doe!</p>
 <p>Agent will have extensive access and will be assigned to Team: Online Banking </p>
 
 ![image](https://github.com/user-attachments/assets/b17bb913-1e2d-4a3b-bae2-773f3fa998f7)
 ![image](https://github.com/user-attachments/assets/2d911e53-c028-408c-980c-d519f6a8e6e2)
 ![image](https://github.com/user-attachments/assets/6948c666-ee9e-40f6-a81e-37d87dfbf779)
+
+<p> Agent#2: John Doe!</p>
+<p> Agent will have limited access</p>
+
+![image](https://github.com/user-attachments/assets/d960d4c4-f918-4cff-9472-7e5cf0f806cc)
+![image](https://github.com/user-attachments/assets/7111799e-d2ea-4b99-8929-96547e323236)
+
 
 
 
