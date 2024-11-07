@@ -73,9 +73,17 @@ We can name this role "Supreme Admin"
 <h3>Configure Departments</h3>
 <p>Next, we can add some departments to our enterprise. Let's create one called "SysAdmin"</p>
 <p>Navigate to the Agents tab > Departments > Add New Department</p>
-<p>Name: Top Level Deparment</p>
+<p>Parent: Top Level Deparment</p>
+<p>Name: SysAdmins</p>
+<p>Access: Agents who have extended access to this department have not yet been added to the system yet</p>
 
-![image](https://github.com/user-attachments/assets/6958224a-99bc-48cd-924b-646079ef7ae5)
+
+![image](https://github.com/user-attachments/assets/19641b1b-e7ab-4e91-9f90-8bb3887f14cd)
+![image](https://github.com/user-attachments/assets/6f8a6c0d-6c1c-4b14-bcf9-c152389f34e7)
+![image](https://github.com/user-attachments/assets/0031e072-3ab4-4941-af4d-e123f9ce0783)
+
+
+
 
 
 <h3>Configure Teams</h3>
