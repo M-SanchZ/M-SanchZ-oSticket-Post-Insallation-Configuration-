@@ -98,7 +98,7 @@ We can name this role "Supreme Admin"
 
 
 
-<h3>Configure Agents</h3>
+<h3>Configure Agents and Users</h3>
 <p>Let's add some agents!</p>
 <p>Navigate to Agents tab > Agents > Add New Agent</p>
 <p>If you see your Name: Marvin Sanchez and Username: admin1, you clicked on the right tab</p>
@@ -122,6 +122,12 @@ We can name this role "Supreme Admin"
 
 ![image](https://github.com/user-attachments/assets/d960d4c4-f918-4cff-9472-7e5cf0f806cc)
 ![image](https://github.com/user-attachments/assets/7111799e-d2ea-4b99-8929-96547e323236)
+
+
+<p> User: Karen</p>
+<p> </p>
+
+![image](https://github.com/user-attachments/assets/83b2c22f-ddae-4c1e-bc70-d0cdbcee7481)
 
 
 
