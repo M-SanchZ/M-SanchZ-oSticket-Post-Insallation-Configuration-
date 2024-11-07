@@ -36,7 +36,11 @@ http://localhost/osTicket
 
 Our admin portal should look like this:
 
-![1](https://github.com/user-attachments/assets/3f4fdb2f-1e47-4990-a9ae-148c9e8c02ba)
+![image](https://github.com/user-attachments/assets/4a56dd1f-ae93-4a81-a368-cdabf979e338)
+
+Followed by an Open ticket with the subject( osTicket Installed!):
+
+![image](https://github.com/user-attachments/assets/a906de3a-fc7c-4ea3-be62-f76a1df7eb20)
 
 <p>Log in to your admin account with the credentials you entered previously the first time you installed osTicket.</p>
 
