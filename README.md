@@ -125,9 +125,11 @@ We can name this role "Supreme Admin"
 
 
 <p> User: Karen</p>
-<p> </p>
+<p> Switch over to Agent Panel</p>
 
 ![image](https://github.com/user-attachments/assets/a57b7f98-754e-4b48-9176-fff42425e20d)
+![image](https://github.com/user-attachments/assets/c059c9dd-d6fc-4e70-a1a0-f9704ff62849)
+![image](https://github.com/user-attachments/assets/c0ab0547-6d2c-4715-bda6-8554d1b35152)
 
 
 
