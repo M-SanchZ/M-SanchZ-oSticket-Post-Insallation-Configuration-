@@ -88,20 +88,22 @@ We can name this role "Supreme Admin"
 
 <h3>Configure Teams</h3>
 <p>Here, we can create a team called "Online Banking"</p>
-<p>In this example, we may have a team dedicated to working a specific ticket. A team of individuals working on a ticket may be necessary depending on the severity of the ticket submiitted.</p>
+<p>In this example, a team may be working on a specific ticket. A team of individuals working on a ticket may be necessary depending on the severity of the ticket submitted.</p>
 <p>Navigate to the Agents tab > Teams </p>
 <p>We will add a new team titled "Online Banking"</p>
 
 ![image](https://github.com/user-attachments/assets/5cffa9d6-1a1c-4914-bd2a-b5662cb29972)
+![image](https://github.com/user-attachments/assets/9a9e270e-f8d4-4773-ad30-6a8eeb1d89b2)
+
 
 
 
 <h3>Configure Agents</h3>
 <p>Let's add some agents!</p>
 <p>Navigate to Agents tab > Agents > Add New Agent</p>
-<p>We can create an agent who may work in the support department, and another who works in the SysAdmin department</p>
+<p>We can create an agent who may work in the support department and another who works in the SysAdmin department</p>
 <p>We can add a non-existent email such as janedoe@example.com</p>
-<p>Make sure you make note of the username for your agent. For example: agent Jane Doe may have username: janedoe</p>
+<p>Make sure you note your agent's username. For example: agent Jane Doe may have username: janedoe</p>
 <p>We also need to set a password to log in as our agent. Make sure you click "set password" > uncheck the box "Send the agent a password reset email" > click "set" >  set a password like "Password1" (and make sure you make note of it) > and uncheck the box "Require password change at next login"</p>
 
 ![10](https://github.com/user-attachments/assets/b8a0f8cd-09b5-4d97-84f0-b89bf0fbdfc9)
