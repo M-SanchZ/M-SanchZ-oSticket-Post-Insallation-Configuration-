@@ -101,12 +101,28 @@ We can name this role "Supreme Admin"
 <h3>Configure Agents</h3>
 <p>Let's add some agents!</p>
 <p>Navigate to Agents tab > Agents > Add New Agent</p>
+<p>If you see your Name: Marvin Sanchez and Username: admin1, you clicked on the right tab</p>
 <p>We can create an agent who may work in the support department and another who works in the SysAdmin department</p>
 <p>We can add a non-existent email such as janedoe@example.com</p>
 <p>Make sure you note your agent's username. For example: agent Jane Doe may have username: janedoe</p>
 <p>We also need to set a password to log in as our agent. Make sure you click "set password" > uncheck the box "Send the agent a password reset email" > click "set" >  set a password like "Password1" (and make sure you make note of it) > and uncheck the box "Require password change at next login"</p>
 
-![10](https://github.com/user-attachments/assets/b8a0f8cd-09b5-4d97-84f0-b89bf0fbdfc9)
+![image](https://github.com/user-attachments/assets/1d17df9e-bf3c-4a89-9bde-cb01056afb02)
+
+
+<p>Crearting an Agent: Jane Doe!</p>
+<p>Agent will have extensive access and will be assigned to Team: Online Banking </p>
+
+![image](https://github.com/user-attachments/assets/b17bb913-1e2d-4a3b-bae2-773f3fa998f7)
+![image](https://github.com/user-attachments/assets/2d911e53-c028-408c-980c-d519f6a8e6e2)
+![image](https://github.com/user-attachments/assets/6948c666-ee9e-40f6-a81e-37d87dfbf779)
+
+
+
+
+
+
+
 
 We can assign an agent the SysAdmin department with the Super Admin role:
 
