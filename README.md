@@ -150,9 +150,12 @@ We can name this role "Supreme Admin"
 
 <p>These schedules can be changed as well. You can play around with the schedules and add your own under the Manage tab > Schedules</p>
 
-![13](https://github.com/user-attachments/assets/d8fcf3b7-4e08-4471-847d-bbffd45912fa)
-![14](https://github.com/user-attachments/assets/c432e761-86d4-4c8a-b21f-0d40d8fd4cd9)
-![15](https://github.com/user-attachments/assets/23407912-f862-4de7-a64e-21ca02044f2a)
+![image](https://github.com/user-attachments/assets/4ef34d2c-88c8-4df7-b066-11aed535ffb5)
+![image](https://github.com/user-attachments/assets/14b6bc04-6a86-4955-8a53-ae84c16507d2)
+![image](https://github.com/user-attachments/assets/fdc5421f-f51a-400b-b1e3-7fde8cfc67a9)
+![image](https://github.com/user-attachments/assets/5e334741-2b24-40f0-bc44-18a08665f76a)
+
+
 
 <h3>Configure Help Topics</h3>
 <p>A help topic in a support ticket system is a categorized subject that provides users with guidance, resources, and solutions related to specific issues or inquiries they may encounter.</p>
