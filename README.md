@@ -137,13 +137,6 @@ We can name this role "Supreme Admin"
 
 
 
-
-
-
-We can assign an agent the SysAdmin department with the Super Admin role:
-
-![11](https://github.com/user-attachments/assets/dd4b7efe-9427-497b-ae66-8f47d796805d)
-
 <h3>Configure SLAs</h3>
 <p>Next, we will configure SLAs.</p>
 <p>SLAs help manage customer expectations by clearly defining the scope and quality of services to be delivered. In a ticketing system, SLAs are crucial as it sets clear expectations regarding service delivery, such as response time, uptime guarantees, and resolution times for customer support issues.</p>
