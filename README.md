@@ -127,7 +127,8 @@ We can name this role "Supreme Admin"
 <p> User: Karen</p>
 <p> </p>
 
-![image](https://github.com/user-attachments/assets/83b2c22f-ddae-4c1e-bc70-d0cdbcee7481)
+![image](https://github.com/user-attachments/assets/a57b7f98-754e-4b48-9176-fff42425e20d)
+
 
 
 
