@@ -92,7 +92,9 @@ We can name this role "Supreme Admin"
 <p>Navigate to the Agents tab > Teams </p>
 <p>We will add a new team titled "Online Banking"</p>
 
-![8](https://github.com/user-attachments/assets/9300af43-451b-4fe4-bebc-7de0255df1f6)
+![image](https://github.com/user-attachments/assets/5cffa9d6-1a1c-4914-bd2a-b5662cb29972)
+
+
 
 <h3>Configure Agents</h3>
 <p>Let's add some agents!</p>
