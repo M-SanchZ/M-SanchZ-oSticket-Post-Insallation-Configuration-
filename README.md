@@ -163,8 +163,18 @@ We can name this role "Supreme Admin"
 <p>We can create one such as "Business Critical Outage" under "Report a Problem"</p>
 And another such as "Personal PC Issues"
 
-![16](https://github.com/user-attachments/assets/ba158600-cd9c-4409-8b43-b76bf950e286)
-![17](https://github.com/user-attachments/assets/ea4597e8-a059-4521-8d55-c331c4bb73a1)
+![image](https://github.com/user-attachments/assets/ae2890a7-f669-4a54-8144-f96c2a495c7a)
+![image](https://github.com/user-attachments/assets/054d15c3-2147-4305-a0e2-85b113b0d3a0)
+![image](https://github.com/user-attachments/assets/dd0e16c5-49cc-4e60-a05b-244d742ca6ed)
+![image](https://github.com/user-attachments/assets/0d2453a8-80df-478e-ac47-6423ccebaed5)
+![image](https://github.com/user-attachments/assets/546835d1-b3bf-4b34-b4a4-3e0080dfb990)
+![image](https://github.com/user-attachments/assets/2c4129a2-be65-41e6-aab3-777df0efa3b7)
+![image](https://github.com/user-attachments/assets/4a8fb6c4-015c-468b-8756-f6a7004cb755)
+
+
+
+
+
 
 <p>We are finished with the post-installation configuration! In the next tutorial, we will go through working sample tickets.</p>
 
