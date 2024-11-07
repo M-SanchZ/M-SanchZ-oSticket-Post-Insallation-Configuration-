@@ -46,7 +46,7 @@ Followed by an Open ticket with the subject( osTicket Installed!):
 
 ![image](https://github.com/user-attachments/assets/d92102cc-6eb1-4748-9647-52b3039df655)
 ![image](https://github.com/user-attachments/assets/0e762d13-48a4-46be-95ba-47e8d12b0d27)
-![image](https://github.com/user-attachments/assets/3d0dcca9-d007-48e9-81a2-865b5e780d2e)
+
 
 
 
