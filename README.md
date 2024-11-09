@@ -105,7 +105,7 @@ We can name this role "Supreme Admin"
 <p>We can create an agent who may work in the support department and another who works in the SysAdmin department</p>
 <p>We can add a non-existent email such as janedoe@example.com</p>
 <p>Make sure you note your agent's username. For example: agent Jane Doe may have username: janedoe</p>
-<p>We also need to set a password to log in as our agent. Make sure you click "set password" > uncheck the box "Send the agent a password reset email" > click "set" >  set a password like "Password1" (and make sure you make note of it) > and uncheck the box "Require password change at next login"</p>
+<p>We must also set a password to log in as our agent. Make sure you click "set password" > uncheck the box "Send the agent a password reset email" > click "set" >  set a password like "Password1" (and make sure you make a note of it) > and uncheck the box "Require password change at next login"</p>
 
 ![image](https://github.com/user-attachments/assets/1d17df9e-bf3c-4a89-9bde-cb01056afb02)
 
@@ -119,10 +119,10 @@ We can name this role "Supreme Admin"
 
 <p> Agent#2: John Doe!</p>
 <p> As a Help Desk Agent (john), observe the ticket’s properties
-	Priority
-	Department
-	SLA
-	Assigned To
+-Priority
+-Department
+-SLA
+-Assigned To
 </p>
 
 ![image](https://github.com/user-attachments/assets/d960d4c4-f918-4cff-9472-7e5cf0f806cc)
