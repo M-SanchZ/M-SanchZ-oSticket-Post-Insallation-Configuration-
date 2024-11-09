@@ -118,7 +118,12 @@ We can name this role "Supreme Admin"
 ![image](https://github.com/user-attachments/assets/6948c666-ee9e-40f6-a81e-37d87dfbf779)
 
 <p> Agent#2: John Doe!</p>
-<p> Agent will have limited access</p>
+<p> As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+</p>
 
 ![image](https://github.com/user-attachments/assets/d960d4c4-f918-4cff-9472-7e5cf0f806cc)
 ![image](https://github.com/user-attachments/assets/7111799e-d2ea-4b99-8929-96547e323236)
