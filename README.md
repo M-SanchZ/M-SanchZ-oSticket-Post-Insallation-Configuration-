@@ -118,7 +118,7 @@ We can name this role "Supreme Admin"
 ![image](https://github.com/user-attachments/assets/6948c666-ee9e-40f6-a81e-37d87dfbf779)
 
 <p> Agent#2: John Doe!</p>
-As a Help Desk Agent (john), observe the ticket’s properties
+As a Help Desk Agent (John), observe the ticket’s properties
 -Priority
 -Department
 -SLA
